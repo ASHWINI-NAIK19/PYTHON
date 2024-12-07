@@ -1,0 +1,5 @@
+n=20
+i=0
+while i<n:
+  i+=2
+  print('First 10 Even Number:',i)
